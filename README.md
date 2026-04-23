@@ -1,2 +1,1 @@
-# FCC_Python
-FreeCodeCamp Python
+This repository contains the exercises from [FreeCodeCamp's Python Course](https://www.freecodecamp.org/learn/python-v9).
